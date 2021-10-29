@@ -4,14 +4,17 @@ Materialien für den MTA Unterricht Statistik und EDV (o.wienand@klinikum-stuttg
 Die Übungen bitte in Gruppen mit 3 bis 5 Personen möglichst in Person zusammen bearbeiten.
 
 # Übungsaufgaben 29.10.2021
- * Nächster Unterricht ist am 12. November (nächste Woche also kein Unterricht)
- * Sucht euch pro Person drei Einträge (in einer Gruppe möglichst verschiedene) aus der Bias-Übersicht https://catalogofbias.org/biases/ heraus und erklärt Sie euch gegenseitig.
- * Sucht pro Gruppe eine Studie/Zeitungsartikel mit einer statistischen Folgerung heraus, bei der einer der angeschauten Bias sehr wahrscheinlich auftritt.
- * Bereitet euch darauf vor, die Studie/Zeitungsartikel mit der Erklärung, wieso ihr den Bias dort vermutet, in ca. 4 min am 12. November vorzustellen.
- * Berechnet für verschiedene Tests (mind. drei pro Gruppe) die Wahrscheinlichkeit dafür, dass eine Person die Krankheit hat, wenn für diese ohne weitere Symptome oder ähnliches der Test positiv ist. Beispiele können sein Tests auf verschiedene Geschlechtskrankheiten, PSA-Test, ...
- * Schickt die Berechnung als PDF/Foto/irgendwie an oliver.wienand@klinikum-stuttgart.de
- * Erstellt pro Gruppe gemeinsam für die Aufgabe 9 und 10 vom [Vorerkenntnistest](https://github.com/wienand/MTA_STAT_EDV/raw/main/eintrittstest.pdf) jeweils eine Berechung in einer Tabellenkalkulation (z.B. ein konkretes Beispiel), um zu prüfen, ob eure Lösung richtig sein kann. Diskutiert erst eure Ideen und dann wechselt euch bei der Bedieung von Excel/LibreCalc/... ab.
- * Schickt die Tabellen an oliver.wienand@klinikum-stuttgart.de
+Nächster Unterricht ist am 12. November (nächste Woche also kein Unterricht)
+ 1. Catalogue of Bias
+    * Sucht euch pro Person drei Einträge (in einer Gruppe möglichst verschiedene) aus der Bias-Übersicht https://catalogofbias.org/biases/ heraus und erklärt Sie euch gegenseitig.
+    * Sucht pro Gruppe eine Studie/Zeitungsartikel mit einer statistischen Folgerung heraus, bei der einer der angeschauten Bias sehr wahrscheinlich auftritt.
+    * Bereitet euch darauf vor, die Studie/Zeitungsartikel mit der Erklärung, wieso ihr den Bias dort vermutet, in ca. 4 min am 12. November vorzustellen.
+ 2. Nachtestwahrscheinlichkeit
+    * Berechnet für verschiedene Tests (mind. drei pro Gruppe) die Wahrscheinlichkeit dafür, dass eine Person die Krankheit hat, wenn für diese ohne weitere Symptome oder ähnliches der Test positiv ist. Beispiele können sein Tests auf verschiedene Geschlechtskrankheiten, PSA-Test, ...
+    * Schickt die Berechnung als PDF/Foto/irgendwie an oliver.wienand@klinikum-stuttgart.de
+ 3. Ausprobieren in Excel:
+    * Erstellt pro Gruppe gemeinsam für die Aufgabe 9 und 10 vom [Vorerkenntnistest](https://github.com/wienand/MTA_STAT_EDV/raw/main/eintrittstest.pdf) jeweils eine Berechung in einer Tabellenkalkulation (z.B. ein konkretes Beispiel), um zu prüfen, ob eure Lösung richtig sein kann. Diskutiert erst eure Ideen und dann wechselt euch bei der Bedieung von Excel/LibreCalc/... ab.
+    * Schickt die Tabellen an oliver.wienand@klinikum-stuttgart.de
 
 # Übungsaufgaben 22.10.2021
  * EDV im Krankenhaus (bitte ansehen und in der Gruppe diskutieren):
